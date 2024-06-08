@@ -1,5 +1,6 @@
 # Nike page - Using React
- ![Screenshot 2024-06-09 001223](https://github.com/Singhayushraj/Nike-Brand-page/assets/117268582/b1c58dc9-dc3c-4cf3-aca1-494fa1ca24cc)
+![Screenshot (161)](https://github.com/Singhayushraj/Nike-Brand-page/assets/117268582/0de02b7e-0914-4bf9-8b87-9109246df427)
+
  
   The website is also responsive
 
