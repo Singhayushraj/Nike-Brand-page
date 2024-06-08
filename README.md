@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Nike page - Using React
+ ![Screenshot 2024-06-09 001223](https://github.com/Singhayushraj/Nike-Brand-page/assets/117268582/b1c58dc9-dc3c-4cf3-aca1-494fa1ca24cc)
+ 
+  The website is also responsive
+
+ ![Screenshot 2024-06-09 001223](https://github.com/Singhayushraj/Nike-Brand-page/assets/117268582/c4d41345-2ffb-4d4e-8226-4808a79db2dd)
+
+  
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
